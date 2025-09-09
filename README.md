@@ -62,15 +62,15 @@
     <img src="https://img.shields.io/badge/LinkedIn-4B0082?style=for-the-badge&logo=linkedin&logoColor=cc88ff" />
   </a>
 
-  <a href="https://leetcode.com/YOUR-LEETCODE-USERNAME/" target="_blank">
+  <a href="https://leetcode.com/abhay_23b/" target="_blank">
     <img src="https://img.shields.io/badge/LeetCode-4B0082?style=for-the-badge&logo=leetcode&logoColor=cc88ff" />
   </a>
 
-  <a href="https://codeforces.com/profile/YOUR-CODEFORCES-USERNAME" target="_blank">
+  <a href="https://codeforces.com/profile/abhay_23b" target="_blank">
     <img src="https://img.shields.io/badge/Codeforces-4B0082?style=for-the-badge&logo=codeforces&logoColor=cc88ff" />
   </a>
 
-  <a href="https://atcoder.jp/users/YOUR-ATCODER-USERNAME" target="_blank">
+  <a href="https://atcoder.jp/users/Abhay_23b" target="_blank">
     <img src="https://img.shields.io/badge/AtCoder-4B0082?style=for-the-badge&logo=atcoder&logoColor=cc88ff" />
   </a>
 
