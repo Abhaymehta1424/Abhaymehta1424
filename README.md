@@ -4,7 +4,7 @@
 
 ### 👀 Visitor Count
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=Abhaymehta1424&label=Profile%20views&color=0e75b6&style=flat" alt="visitor badge"/>
+<img src="https://komarev.com/ghpvc/?username=Abhaymehta1424&label=Visitors+%28since+500%29&color=blue&style=flat" />
 </p>
 
 ###
