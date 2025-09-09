@@ -4,7 +4,7 @@
 
 ### 👀 Visitor Count
 <p align="left">
-<img src="https://komarev.com/ghpvc/?username=Abhaymehta1424&label=Visitors+%28since+500%29&color=blue&style=flat" />
+<img src="https://countapi.xyz/hit/Abhaymehta1424.github/visits?value=500" alt="visitor badge"/>
 </p>
 
 ###
