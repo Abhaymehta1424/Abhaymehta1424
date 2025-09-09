@@ -4,7 +4,7 @@
 
 ### 👀 Visitor Count
 <p align="left">
-<img src="https://img.shields.io/badge/dynamic/json?color=brightgreen&label=Visitors&query=count&url=https://raw.githubusercontent.com/YourUser/YourRepo/main/count.json&style=for-the-badge" />
+<img src="https://komarev.com/ghpvc/?username=Abhaymehta1424&label=Profile%20views+since+500&color=0e75b6&style=flat" alt="Abhaymehta1424" />
 </p>
 
 ###
