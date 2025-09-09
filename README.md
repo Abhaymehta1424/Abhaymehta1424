@@ -3,11 +3,7 @@
 </h2>
 
 <p align="center">
-  <i>A passionate Computer Science Engineering student at LPU.  
-  I enjoy building web apps, exploring full-stack development,  
-  and contributing to meaningful tech projects.  
-  I love working with <b>Java, Spring Boot, Python, React</b>, and databases like <b>MySQL & MongoDB</b>.  
-  Always open to collaboration and learning something new!</i>
+  <i>✨ As a Computer Science Engineering student at LPU, I see technology as both an art and a science. I enjoy crafting seamless web experiences, diving into full-stack development, and contributing to projects that make a difference. With a strong foundation in Java, Spring Boot, Python, React, and databases like MySQL & MongoDB, I embrace every opportunity to innovate and collaborate. For me, every line of code is a step towards building smarter, impactful solutions.</i>
 </p>
 
 ---
