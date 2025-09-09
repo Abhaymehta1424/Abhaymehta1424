@@ -1,5 +1,12 @@
 <h2 align="left">Hi! I'm Abhay Mehta, a passionate Computer Science Engineering student at LPU. I enjoy building web apps, exploring full-stack development, and contributing to meaningful tech projects. I love working with Java, Spring Boot, Python, React, and databases like MySQL & MongoDB. Always open to collaboration and learning something new!</h2>
 
+---
+
+### 👀 Visitor Count
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=Abhaymehta1424&label=Profile%20views&color=0e75b6&style=flat" alt="visitor badge"/>
+</p>
+
 ###
 
 <div align="center">
