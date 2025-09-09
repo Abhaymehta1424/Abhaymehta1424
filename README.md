@@ -4,7 +4,7 @@
 
 ### 👀 Visitor Count
 <p align="left">
-<img src="https://countapi.xyz/hit/Abhaymehta1424.github/visits?value=500" alt="visitor badge"/>
+  <img src="https://img.shields.io/badge/dynamic/json?color=blue&label=Visitors&query=value&url=https://countapi.xyz/hit/Abhaymehta1424.github/visits&style=flat-square" alt="visitor badge"/>
 </p>
 
 ###
