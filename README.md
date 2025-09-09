@@ -4,7 +4,7 @@
 
 ### 👀 Visitor Count
 <p align="left">
-<img src="https://img.shields.io/badge/dynamic/json?color=brightgreen&label=Visitors&query=count&url=https://raw.githubusercontent.com/YourUser/YourRepo/main/count.json&style=for-the-badge" />
+<img src="https://img.shields.io/badge/dynamic/jsoncolor=brightgreen&label=Visitors&query=count&url=https://raw.githubusercontent.com/YourUser/YourRepo/main/count.json&style=for-the-badge" />
 </p>
 
 ###
