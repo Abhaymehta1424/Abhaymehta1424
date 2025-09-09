@@ -66,7 +66,7 @@
     <img src="https://img.shields.io/badge/LeetCode-4B0082?style=for-the-badge&logo=leetcode&logoColor=cc88ff" />
   </a>
 
-  <a href="https://codeforces.com/profile/ABHAY_23B" target="_blank">
+  <a href="[https://codeforces.com/profile/ABHAY_23B](https://codeforces.com/profile/abhay23_b)" target="_blank">
     <img src="https://img.shields.io/badge/Codeforces-4B0082?style=for-the-badge&logo=codeforces&logoColor=cc88ff" />
   </a>
 
