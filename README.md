@@ -47,20 +47,35 @@
 
 ---
 
-### 📬 Connect with Me
-<div align="center" style="border:2px solid #cc88ff; border-radius:10px; padding:10px; box-shadow: 0px 0px 15px #cc88ff;">
+### 📬 Connect with Me  
+<div align="center" style="border:2px solid #cc88ff; border-radius:10px; padding:15px; box-shadow: 0px 0px 20px #cc88ff;">
+
   <a href="https://instagram.com/abhay.m._" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-cc88ff?style=for-the-badge&logo=instagram&logoColor=white" />
+    <img src="https://img.shields.io/badge/Instagram-4B0082?style=for-the-badge&logo=instagram&logoColor=cc88ff" />
   </a>
+  
   <a href="mailto:abhaymehta202001@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-cc88ff?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Gmail-4B0082?style=for-the-badge&logo=gmail&logoColor=cc88ff" />
   </a>
+  
   <a href="https://www.linkedin.com/in/abhay-mehta-2076b2251" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-cc88ff?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-4B0082?style=for-the-badge&logo=linkedin&logoColor=cc88ff" />
   </a>
+
+  <a href="https://leetcode.com/YOUR-LEETCODE-USERNAME/" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-4B0082?style=for-the-badge&logo=leetcode&logoColor=cc88ff" />
+  </a>
+
+  <a href="https://codeforces.com/profile/YOUR-CODEFORCES-USERNAME" target="_blank">
+    <img src="https://img.shields.io/badge/Codeforces-4B0082?style=for-the-badge&logo=codeforces&logoColor=cc88ff" />
+  </a>
+
+  <a href="https://atcoder.jp/users/YOUR-ATCODER-USERNAME" target="_blank">
+    <img src="https://img.shields.io/badge/AtCoder-4B0082?style=for-the-badge&logo=atcoder&logoColor=cc88ff" />
+  </a>
+
 </div>
 
----
 
 ### 👀 Visitor Count
 <p align="center">
